@@ -1,0 +1,21 @@
+header{
+    
+    height: 180px;
+    background-image: url(../img/pattern.png);
+    background-color: #0db1fd;
+    
+}
+
+#main-container{
+
+    width: 90%;
+
+}
+
+#logo{
+
+    width: 250px;
+    position: relative;
+    top: 80px;
+    left: 10px;
+}
